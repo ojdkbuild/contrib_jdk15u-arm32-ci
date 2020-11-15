@@ -1,7 +1,7 @@
 OpenJDK 15 ARM32 builds
 =======================
 
-[![travis](https://travis-ci.org/ojdkbuild/contrib_jdk15u-arm32-ci.svg?branch=jdk-15%2B36)](https://travis-ci.org/ojdkbuild/contrib_jdk15u-arm32-ci/builds)
+[![travis](https://travis-ci.org/ojdkbuild/contrib_jdk15u-arm32-ci.svg?branch=jdk-15.0.1%2B9)](https://travis-ci.org/ojdkbuild/contrib_jdk15u-arm32-ci/builds)
 
 OpenJDK 15 ARM32 builds done on Travis CI - [downloads](https://github.com/ojdkbuild/contrib_jdk15u-arm32-ci/releases).
 
